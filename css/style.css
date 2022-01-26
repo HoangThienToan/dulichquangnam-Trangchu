@@ -1,0 +1,62 @@
+.background-r{
+  background-color: #efe4b0;
+}
+
+.background-off{
+  background: none;
+}
+
+.diemden-content{
+  position: relative;
+}
+
+.block-title-diemden {
+  border-bottom: 2px solid #AD0F28;
+}
+
+.block-title-diemden span {
+    background: #AD0F28;
+    color: #fff;
+    text-transform: uppercase;
+    padding: 10px 20px;
+    display: inline-block;
+    margin: 0.5px;
+}
+
+img{
+  width: 100%;
+  height: auto;
+}
+
+.block-detailk {
+  padding: 20px 0;
+}
+
+.ads-container {
+  padding: 0 5px!important;
+}
+
+.block-img-container {
+  position: relative;
+  cursor: pointer;
+  margin-bottom: 10px;
+}
+
+.img-title {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  margin: 0;
+  padding: 10px;
+  color: #fff;
+  font-size: 14px;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  overflow: hidden;
+  background: rgba(0, 0, 0, 0.4);
+}
+
+.img-title a{
+  color: #fff;
+}
